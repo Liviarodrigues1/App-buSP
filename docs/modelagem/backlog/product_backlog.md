@@ -48,9 +48,9 @@
 
 |**Feature**|**ID**|**História de usuário**| **Prioridade** |
 |:----------:|:----:|:----------------------| --------- |
-| <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature1">Feature 01 - Cadastro</a> | US01 | Criação do cadastro do usuário | MUST |
-| <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature2">Feature 02 - Login </a> | US02 </br></br>  US03 </br></br> US04 | Fazer login </br></br> Acesso por leitura facial ou digital </br></br> Alterar/recuperar senha esquecida | MUST </br></br> SHOULD </br></br> MUST|
-| <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature3">Feature 03 - Logout</a> | US05 | Fazer logout | MUST |
+| <a href="https://liviarodrigues1.github.io/App-buSP/modelagem/backlog/historias_de_usuario/#feature1">Feature 01 - Cadastro</a> | US01 | Criação do cadastro do usuário | MUST |
+| <a href="https://liviarodrigues1.github.io/App-buSP/modelagem/backlog/historias_de_usuario/#feature2">Feature 02 - Login </a> | US02 </br></br>  US03 </br></br> US04 | Fazer login </br></br> Acesso por leitura facial ou digital </br></br> Alterar/recuperar senha esquecida | MUST </br></br> SHOULD </br></br> MUST|
+| <a href="https://liviarodrigues1.github.io/App-buSP/modelagem/backlog/historias_de_usuario/#feature3">Feature 03 - Logout</a> | US05 | Fazer logout | MUST |
 
 *Tabela 3: Épico 01*
 <br><br>
@@ -60,8 +60,8 @@
 
 |**Feature**|**ID**|**História de usuário**| **Prioridade** |
 |:----------:|:----:|:----------------------| --------- |
-| <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature4">Feature 04 - Comprar Planos</a> | US06 </br></br> US07 </br></br> US08 </br></br> US09 | Visualizar planos </br></br> Adquirir planos </br></br> Inserir dados do cartão de crédito </br></br> Utilizar cupom promocional | MUST </br></br> MUST </br></br> MUST </br></br> SHOULD |
-| <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature5">Feature 05 - Multa</a> | US10 | Pagamento de custos adicionais | MUST |
+| <a href="https://liviarodrigues1.github.io/App-buSP/modelagem/backlog/historias_de_usuario/#feature4">Feature 04 - Comprar Planos</a> | US06 </br></br> US07 </br></br> US08 </br></br> US09 | Visualizar planos </br></br> Adquirir planos </br></br> Inserir dados do cartão de crédito </br></br> Utilizar cupom promocional | MUST </br></br> MUST </br></br> MUST </br></br> SHOULD |
+| <a href="https://liviarodrigues1.github.io/App-buSP/modelagem/backlog/historias_de_usuario/#feature5">Feature 05 - Multa</a> | US10 | Pagamento de custos adicionais | MUST |
 
 *Tabela 4: Épico 02*
 <br><br>
@@ -71,10 +71,10 @@
 
 |**Feature**|**ID**|**História de usuário**| **Prioridade** |
 |:----------:|:----:|:----------------------| --------- |
-| <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature6">Feature 06 - Mapa</a> | US11 </br></br> US12</br></br> US13 | Visualizar o mapa </br></br> Visualizar a quantidade de bicicletas </br></br> Visualizar a quantidade de vagas | MUST </br></br> MUST </br></br> MUST |
-| <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature7">Feature 07 - Localização</a> | US14 </br></br> US15 | Localização em tempo real </br></br> Estações próximas ao usuário ou ao seu destino | SHOULD </br></br> MUST|
-| <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature8">Feature 08 - Retirada</a> | US16 </br></br> US17 </br></br> US18 | Retirar bicicleta em determinado local </br></br> Retirar bicicleta pelo QR code </br></br> Retirar bicicleta pelo código no aplicativo | MUST </br></br> SHOULD </br></br> SHOULD |
-| <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature9">Feature 09 - Devolução</a> | US19 | Devolução da bicicleta | MUST|
+| <a href="https://liviarodrigues1.github.io/App-buSP/modelagem/backlog/historias_de_usuario/#feature6">Feature 06 - Mapa</a> | US11 </br></br> US12</br></br> US13 | Visualizar o mapa </br></br> Visualizar a quantidade de bicicletas </br></br> Visualizar a quantidade de vagas | MUST </br></br> MUST </br></br> MUST |
+| <a href="https://liviarodrigues1.github.io/App-buSP/modelagem/backlog/historias_de_usuario/#feature7">Feature 07 - Localização</a> | US14 </br></br> US15 | Localização em tempo real </br></br> Estações próximas ao usuário ou ao seu destino | SHOULD </br></br> MUST|
+| <a href="https://liviarodrigues1.github.io/App-buSP/modelagem/backlog/historias_de_usuario/#feature8">Feature 08 - Retirada</a> | US16 </br></br> US17 </br></br> US18 | Retirar bicicleta em determinado local </br></br> Retirar bicicleta pelo QR code </br></br> Retirar bicicleta pelo código no aplicativo | MUST </br></br> SHOULD </br></br> SHOULD |
+| <a href="https://liviarodrigues1.github.io/App-buSP/modelagem/backlog/historias_de_usuario/#feature9">Feature 09 - Devolução</a> | US19 | Devolução da bicicleta | MUST|
 
 *Tabela 5: Épico 03*
 <br><br>
@@ -84,7 +84,7 @@
 
 |**Feature**|**ID**|**História de usuário**| **Prioridade** |
 |:----------:|:----:|:----------------------| --------- |
-| <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature10">Feature 10 - Central de atendimento</a> | US20 </br></br> US21 </br></br> US22 </br></br> US23 | Regras de utilização do aplicativo </br></br> Retirada de Dúvidas </br></br> Entrar em contato com atendente </br></br> Relatar problema | MUST </br></br> SHOULD </br></br> SHOULD </br></br> SHOULD |
+| <a href="https://liviarodrigues1.github.io/App-buSP/modelagem/backlog/historias_de_usuario/#feature10">Feature 10 - Central de atendimento</a> | US20 </br></br> US21 </br></br> US22 </br></br> US23 | Regras de utilização do aplicativo </br></br> Retirada de Dúvidas </br></br> Entrar em contato com atendente </br></br> Relatar problema | MUST </br></br> SHOULD </br></br> SHOULD </br></br> SHOULD |
 
 *Tabela 6: Épico 04*
 <br><br>

@@ -9,7 +9,7 @@
 | 1.2 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
 
 ## Introdução
-<p style="text-align: justify">&emsp;&emsp;Tendo como base o projeto <a href="https://requisitos-de-software.github.io/2021.1-Ingresso.com/verificacao/casos_de_uso/">Ingresso.com</a> realizado por alunos da disciplina em semestres passados, e com o material, disponibilizados pelo professor para estudo, foi possível fazer a verificação do documento buscando a máxima assertividade na realização desta atividade, que tem como finalidade revisar o documento de <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/casos_de_uso/">Cenários</a> deste projeto e apontar análises e possíveis pontos de melhora.</p>
+<p style="text-align: justify">&emsp;&emsp;Tendo como base o projeto <a href="https://requisitos-de-software.github.io/2021.1-Ingresso.com/verificacao/casos_de_uso/">Ingresso.com</a> realizado por alunos da disciplina em semestres passados, e com o material, disponibilizados pelo professor para estudo, foi possível fazer a verificação do documento buscando a máxima assertividade na realização desta atividade, que tem como finalidade revisar o documento de <a href="https://liviarodrigues1.github.io/App-buSP/modelagem/casos_de_uso/">Cenários</a> deste projeto e apontar análises e possíveis pontos de melhora.</p>
 
 ## Metodologia
 <p style="text-align: justify">&emsp;&emsp;Usando como método a Inspeção, onde o objetivo é encontrar problemas no documento para avaliar se está de acordo com o modelo e com o que se espera, um checklist foi criado para os cenários do projeto. O documento foi feito pelo integrante do grupo Gabriel Sabanai.</p>
@@ -210,4 +210,4 @@ Dessa forma, podemos percebe-se que a questão número 5 foi a que teve maior po
 </p>
 
 ## 6. Referências
-<p style="text-align: justify;"> Modelagem Cenários. <b>Documento de cenários da Wiki.</b><a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/cenarios/" target="_blank"> Cenários</a></p>
+<p style="text-align: justify;"> Modelagem Cenários. <b>Documento de cenários da Wiki.</b><a href="https://liviarodrigues1.github.io/App-buSP/modelagem/cenarios/" target="_blank"> Cenários</a></p>

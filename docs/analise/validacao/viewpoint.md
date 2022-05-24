@@ -105,4 +105,4 @@ Hierarquia:
 ## Referências 
 LEITE, Julio Cesar Sampaio do Prado; SFREEMAN, Peter A. "Requirements validation through viewpoint resolution." IEEE Trans. Software Eng. 17.12 (1991): 1253-1269. Acesso em: 18/04/2022.
 
-Thiago, Grupo Ingresso.com. Disponível em: <https://requisitos-de-software.github.io/2021.1-Ingresso.com/validacao/viewpoint/>. Acesso em: 18/04/2022.
+Thiago, Grupo Ingresso.com. Disponível em: <https://liviarodrigues1.github.io/App-buSP/-Ingresso.com/validacao/viewpoint/>. Acesso em: 18/04/2022.

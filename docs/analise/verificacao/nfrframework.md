@@ -10,7 +10,7 @@
 *Tabela 1: Tabela de versionamento*
 
 ## Introdução
-<p align="justify">&emsp;&emsp; A verificação é uma metodologia que visa garantir que os entregaveis de um projeto, garantindo que os pontos analisados cumpram com seus requisitos especificados. Essa etapa consiste de uma técnica que não depende da interação com os usuários finais do produto, sendo realizada atrvés da visão tecnica do desenvolvedor. O presente documento tem como objetivo apresentar a verificação realizada no documento de modelagem <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/nfrframework/">NFR Framework</a>.</p>
+<p align="justify">&emsp;&emsp; A verificação é uma metodologia que visa garantir que os entregaveis de um projeto, garantindo que os pontos analisados cumpram com seus requisitos especificados. Essa etapa consiste de uma técnica que não depende da interação com os usuários finais do produto, sendo realizada atrvés da visão tecnica do desenvolvedor. O presente documento tem como objetivo apresentar a verificação realizada no documento de modelagem <a href="https://liviarodrigues1.github.io/App-buSP/modelagem/nfrframework/">NFR Framework</a>.</p>
 
 ## Metodologia
 <p align="justify">&emsp;&emsp;A metodologia utilizada para realizar a verificação foi a técnica de inspeção pela estratégia de leitura e checklist, por ser uma metodologia objetiva e eficaz para identificar se todos os critérios atendidos sendo muito eficaz em identidicar lacunas e melhorias nas atvidades realizadas. Os critérios abordados têm o papel de verificar se o artefato cumpre as especificações esperadas e seu propósito para o projeto, assim identificando defeitos e melhorias possibilitando correções.</p>

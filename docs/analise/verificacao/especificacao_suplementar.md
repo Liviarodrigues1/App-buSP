@@ -10,7 +10,7 @@
 *Tabela 1: versionamento*
 
 ## Introdução
-<p style="align-text: justify">&emsp;&emsp;Tendo como base o projeto <a href="https://requisitos-de-software.github.io/2021.1-TesouroDireto/verificacao_suplementar/">Tesouro Direto</a> realizado por alunos da disciplina em semestres passados, e com o material [1], disponibilizados pelo professor para estudo, foi possível fazer a verificação do documento buscando a máxima assertividade na realização desta atividade, que tem como finalidade revisar o documento de <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/especificacao_suplementar/">Especificação Suplementar</a> deste projeto e apontar análises e possíveis pontos de melhora.</p>
+<p style="align-text: justify">&emsp;&emsp;Tendo como base o projeto <a href="https://requisitos-de-software.github.io/2021.1-TesouroDireto/verificacao_suplementar/">Tesouro Direto</a> realizado por alunos da disciplina em semestres passados, e com o material [1], disponibilizados pelo professor para estudo, foi possível fazer a verificação do documento buscando a máxima assertividade na realização desta atividade, que tem como finalidade revisar o documento de <a href="https://liviarodrigues1.github.io/App-buSP/modelagem/especificacao_suplementar/">Especificação Suplementar</a> deste projeto e apontar análises e possíveis pontos de melhora.</p>
 
 ## Metodologia
 <p style="align-text: justify">&emsp;&emsp;Usando como método a Inspeção, onde o objetivo é encontrar problemas no documento para avaliar se está de acordo com o modelo e com o que se espera [1], um checklist foi criado para a Especificação Suplementar. Artefato feito pelo integrante do grupo Victor Eduardo.</p>

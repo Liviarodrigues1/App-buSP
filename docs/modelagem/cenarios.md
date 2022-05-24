@@ -42,7 +42,7 @@
 
 <div id="cadastro"></div>
 
-### C01 - [Cadastrar usuário](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#cadastrar-usuario) por email
+### C01 - [Cadastrar usuário](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#cadastrar-usuario) por email
 | Título | Cadastrar usuário por email |
 | -- | -- |
 | Objetivo | Criar perfil para o usuário no Tembici utilizando email |
@@ -57,7 +57,7 @@
 
 <div id="login"></div>
 
-### C02 - [Acessar a conta](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#logar)
+### C02 - [Acessar a conta](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#logar)
 | Título | Acessar a conta |
 | -- | -- |
 | Objetivo | Acessar a conta usuário no Tembici |
@@ -76,7 +76,7 @@
 | Título | Sair da Conta |
 | -- | -- |
 | Objetivo | Sair da conta logada no app |
-| Contexto | pré-condição: Usuário logado no Tembici<br>pós-condição: [Logout da conta](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#nao-logado) |
+| Contexto | pré-condição: Usuário logado no Tembici<br>pós-condição: [Logout da conta](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#nao-logado) |
 | Atore | Usuário |
 | Recursos | Acesso à internet<br>Usuário logado no app |
 | Episódios | 1. O usuário acessa a tela de opções<br>2. O usuário seleciona o botão de "Sair" |
@@ -91,7 +91,7 @@
 | Título | Escolher Ajuda |
 | -- | -- |
 | Objetivo | Consultar informações sobre os serviços do Tembici |
-| Contexto | pré-condição: [Usuário logado](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#logar) no Tembici<br>pós-condição: Ver informações sobre o funcionamento do app |
+| Contexto | pré-condição: [Usuário logado](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#logar) no Tembici<br>pós-condição: Ver informações sobre o funcionamento do app |
 | Atore | Usuário |
 | Recursos | Acesso à internet<br>App intalado<br>Usuário logado no app |
 | Episódios | 1. O usuário acessa a tela de opções<br>2. O usuário seleciona o botão de "Ajuda"<br>3. O usuário seleciona sua cidade<br>4. O usuário seleciona o tópico que quer consultar |
@@ -105,7 +105,7 @@
 ### C05 - Escolher Planos e Pagamento
 | Título | Escolher Planos e Pagamento |
 | -- | -- |
-| Objetivo | Consultar as opções de planos de [assinatura](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#plano) do Tembici |
+| Objetivo | Consultar as opções de planos de [assinatura](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#plano) do Tembici |
 | Contexto | pré-condição: Usuário logado no Tembici<br>pós-condição: Ver informações sobre os planos do app |
 | Atore | Usuário |
 | Recursos | Acesso à internet<br>App intalado<br>Usuário logado no app |
@@ -117,12 +117,12 @@
 
 <div id="assinar-planos"></div>
 
-### C06 - [Assinar Plano](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#assinar)
+### C06 - [Assinar Plano](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#assinar)
 | Título | Assinar Plano |
 | -- | -- |
 | Objetivo | Comprar um plano para utilizar os serviços do app |
 | Contexto | pré-condição: Usuário logado no Tembici<br>pós-condição: Plano comprado |
-| Atore | [Usuário](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#usuario) |
+| Atore | [Usuário](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#usuario) |
 | Recursos | Acesso à internet<br>App intalado<br>Usuário logado no app |
 | Episódios | 1. O usuário acessa a tela de opções<br>2. O usuário seleciona o botão de "Comprar Plano"<br>3. O usuário seleciona sua cidade<br>4. O usuário seleciona o botão de "Conheça os planos Tembici"<br>5. O usuário seleciona o plano de sua escolha<br>6. O usuário cadastra um cartão ou seleciona um cartão cadastrado<br>7. O usuário seleciona o botão de "Comprar Plano" |
 | Restrições | Fluxo intuitivo | 
@@ -132,7 +132,7 @@
 
 <div id="bicicleta-disponivel"></div>
 
-### C07 -  Vizualizar [Bicicletas Disponíveis](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#consultar-bicicleta)
+### C07 -  Vizualizar [Bicicletas Disponíveis](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#consultar-bicicleta)
 | Título |  Vizualizar Bicicletas Disponíveis |
 | -- | -- |
 | Objetivo | Poder ver o número de bicicletas disponíveis em cada estação |
@@ -148,7 +148,7 @@
 <div id="vagas-disponivel"></div>
 
 ### C08 -  Vizualizar Vagas Disponíveis
-| Título |  Vizualizar [Vagas Disponíveis](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#cadastrar-vagas) |
+| Título |  Vizualizar [Vagas Disponíveis](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#cadastrar-vagas) |
 | -- | -- |
 | Objetivo | Poder ver o número de vagas disponíveis em cada estação |
 | Contexto | pré-condição: App instalado<br>pós-condição: Ver localização das estações e o número de vagas disponíveis em cada uma |
@@ -162,14 +162,14 @@
 
 <div id="informaçao-estaçao"></div>
 
-### C09 -  Vizualizar Informações de uma [Estação](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#estacao)
+### C09 -  Vizualizar Informações de uma [Estação](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#estacao)
 | Título |  Vizualizar Informações de uma Estação |
 | -- | -- |
 | Objetivo | Poder ver informações sobre uma estação |
 | Contexto | pré-condição: App instalado<br>pós-condição: Ver informações sobre uma estação |
 | Atore | Usuário |
 | Recursos | Acesso à internet<br>App intalado |
-| Episódios | 1. O usuário acessa o [Tembici](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#software)<br>2. O usuário seleciona uma estação |
+| Episódios | 1. O usuário acessa o [Tembici](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#software)<br>2. O usuário seleciona uma estação |
 | Restrições | Fluxo intuitivo | 
 | Exceção | Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
 
@@ -177,7 +177,7 @@
 
 <div id="historico-viagens"></div>
 
-### C10 -  Vizualizar [Histórico de Viagens](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#consultar-historico)
+### C10 -  Vizualizar [Histórico de Viagens](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#consultar-historico)
 | Título |  Vizualizar Histórico de Viagens |
 | -- | -- |
 | Objetivo | Consultar informações sobre as viagens realizadas pelo usuário |
@@ -192,7 +192,7 @@
 
 <div id="desbloquear-bicicleta"></div>
 
-### C11 - [Desbloquear Bicicleta](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#alugar) por [QR Code](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#qr-code)
+### C11 - [Desbloquear Bicicleta](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#alugar) por [QR Code](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#qr-code)
 | Título | Desbloquear Bicicleta por QR Code |
 | -- | -- |
 | Objetivo | Poder utilizar a camera para escanear um QR Code e desbloquear uma bicicleta |
@@ -207,7 +207,7 @@
 
 <div id="codigo-desbloqueio"></div>
 
-### C12 - Desbloquear Bicicleta por [código](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#gerar-codigo) de acesso
+### C12 - Desbloquear Bicicleta por [código](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#gerar-codigo) de acesso
 | Título | Desbloquear Bicicleta por código de acesso |
 | -- | -- |
 | Objetivo | Poder gerar um código de acesso para desbloquear uma bicicleta |

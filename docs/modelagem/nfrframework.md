@@ -16,7 +16,7 @@
 <p align="justify">&emsp;&emsp;Este framework é utilizado neste trabalho para representar os Requisitos Não-Funcionais presentes no Catálogo NFR4Es, onde estes Requisitos Não-Funcionais serão expressados através de um grafo SIG. O NFR framework criado por (CHUNG et al., 2000), foi adotado por propor uma abordagem específica para o tratamento de Requisitos Não-Funcionais e fornecer uma rica representação para expressar esses requisitos, além de suas relações e correlações.</p>
 
 ## Metodologia
-<p align="justify">&emsp;&emsp;Essa técnica de modelagem trata de decompor os requisitos não funcionais a niveis operacionais, facilitando a compreensão, priorização e garantindo que as expectativas dos stakeholders sejam atendidas. Cada tema de diagrama NFR elaborado nesse documento foi retirado dos requisitos não funcionais levantados na <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/especificacao_suplementar/">especificação suplementar</a>.</p>
+<p align="justify">&emsp;&emsp;Essa técnica de modelagem trata de decompor os requisitos não funcionais a niveis operacionais, facilitando a compreensão, priorização e garantindo que as expectativas dos stakeholders sejam atendidas. Cada tema de diagrama NFR elaborado nesse documento foi retirado dos requisitos não funcionais levantados na <a href="https://liviarodrigues1.github.io/App-buSP/modelagem/especificacao_suplementar/">especificação suplementar</a>.</p>
 Os tipos de contribuição utilizados nos diagramas foram:
 
 - AND: Caso os softgoals descendentes sejam satisfeitos, serão também os ascendentes.

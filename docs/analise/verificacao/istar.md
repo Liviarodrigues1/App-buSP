@@ -11,7 +11,7 @@
 ## Introdução
 <p align="justify">&emsp;&emsp; A verificação é uma metodologia que visa garantir que os entregáveis de um projeto, garantindo que os pontos analisados cumpram com seus requisitos especificados.</p>
 <p align="justify">&emsp;&emsp;Essa etapa consiste de uma técnica que não depende da interação com os usuários finais do produto, sendo realizada através da visão técnica do desenvolvedor. </p>
-<p align="justify">&emsp;&emsp;O presente documento tem como objetivo apresentar a verificação realizada no documento de modelagem <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/istar/">Istar</a>.</p>
+<p align="justify">&emsp;&emsp;O presente documento tem como objetivo apresentar a verificação realizada no documento de modelagem <a href="https://liviarodrigues1.github.io/App-buSP/modelagem/istar/">Istar</a>.</p>
 
 ## Metodologia
 <p align="justify">&emsp;&emsp;A metodologia utilizada para realizar a verificação foi a técnica de inspeção pela estratégia de leitura e checklist, por ser uma metodologia objetiva e eficaz para identificar se todos os critérios atendidos sendo muito eficaz em identificar lacunas e melhorias nas atividades realizadas.</p>
