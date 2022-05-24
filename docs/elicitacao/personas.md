@@ -15,30 +15,27 @@
 <p align="justify">&emsp;&emsp;Persona é um personagem fictício que reflete um grupo de usuários, definidas por seus objetivos. Um conjunto de elementos são usados para denifir uma persona, são eles: identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas. Antipersonas são personagens fictícios que servem para exemplificar para quem o produto não é direcionado. </p> 
 
 ## Metodologia
-<p align="justify">&emsp;&emsp;Visando desenvolver as personas do projeto foi realizado a analise dos artefatos na etapa de elicitação de requisitos, assim são derivadas através de um processo de investigação que lista características dos usuários e descreve seus perfis, as imagens utilizadas são de cunho ilustrativo e ficticios, não foram utilizadas imagnes de pessoas reais. O mesmo foi feito pelos membros João Victor e Lívia Rodrigues e tem como objetivo objetivo a indentificação de requisitos.</p> 
+<p align="justify">&emsp;&emsp;Visando desenvolver as personas do projeto foi realizado a analise dos artefatos na etapa de elicitação de requisitos, assim são derivadas através de um processo de investigação que lista características dos usuários e descreve seus perfis, as imagens utilizadas são de cunho ilustrativo e ficticios, não foram utilizadas imagnes de pessoas reais.</p> 
 
-## Resultados
 ### Persona 1
 
-![Foto persona 1 - Letícia](../assets/modelagem/persona/p1.png) 
+![Foto persona 1 - Leonardo](../assets/modelagem/persona/p1.png) 
 
 *Imagem 1: Foto ilustrativa - persona 1*
 
 *Fonte: https://thispersondoesnotexist.com* 
 
-  Nome: Letícia.
+  Nome: Leonardo.
   
-  Idade: 17 anos.
+  Idade: 40 anos.
   
-  Escolaridade: Ensino Médio Incompleto.
+  Escolaridade: Ensino Superior Compelto.
   
-  Profissão: Estudante.
+  Profissão: Advogado.
   
-  Desafios: Não tem condições de comprar uma bicicleta de qualidade.
+  Desafios: Não tem condições de adquirir um carro.
   
-  Expectativas: Conseguir passear esporadicamente com seus amigos e familiares por Brasília.
-  
-  Nível de conhecimento sobre o app: Utiliza o aplicativo esporadicamente.
+  Expectativas: Chegar ao trabalho.
 
 ### Persona 2
 
@@ -60,8 +57,6 @@
 
   Expectativas: Contornar o obstáculo do engarrafamento e do preço de combustível utilizando as bicicletas para se deslocar para o trabalho e de volta.
 
-  Nível de conhecimento sobre o app: Utiliza constantemente o aplicativo.
-
 ### Persona 3
 
 ![Foto persona 3 - Fransisco](../assets/modelagem/persona/p3.png) 
@@ -78,11 +73,9 @@
 
   Profissão: Técnico em Telecomunicações.
 
-  Desafios: Compreender como funciona o aluguel de bicicletas.
+  Desafios: Compreender como funciona o aplicativo para conseguir facilitar a viagem.
 
-  Expectativas: Utilizar bicicletas esporadicamente para uso recreativo.
-
-  Nível de conhecimento sobre o app: Primeira vez utilizando um app desse tipo.
+  Expectativas: Utilizar o aplicativo esporadicamente.
 
 ### Persona 4
 
@@ -102,31 +95,7 @@
 
   Desafios: Fazendo estágio e faculdade e sem possuir automóvel próprio, depende do transporte público, que tem horários e trajetos inflexíveis, para se deslocar. Por ter muitas demandas, também tem dificuldades para inserir atividades físicas em sua rotina.
   
-  Expectativas:  Conseguir um meio de transporte flexível para se deslocar mais rápido entre o estágio, faculdade e sua casa e, ao mesmo tempo, realizar atividades físicas.
-  
-  Nível de conhecimento sobre o app: Utiliza o aplicativo diariamente para a otimização de seu tempo.
-
-### Persona Secundária 1
-
-![Foto Persona Secundária 1 - Lucas](../assets/modelagem/persona/p5.png) 
-
-*Imagem 5: Foto ilustrativa - persona secundária 5*
-
-*Fonte: https://thispersondoesnotexist.com* 
-
-  Nome: Lucas.
-  
-  Idade: 33 anos.
-  
-  Escolaridade: Ensino Superior.
-  
-  Profissão: Professor Universitario
-
-  Desafios: Mora em uma região que não possui postos do aplicativo
-  
-  Expectativas: Deseja poder voltar para sua casa utilizando a bicicleta do aplicativo.
-
-  Nível de conhecimento sobre o app: Já utilizou a aplicativo varias vezes.
+  Expectativas:  Conseguir um meio de transporte flexível para se deslocar mais rápido entre o estágio, faculdade e sua casa.
 
 ### Antipersona
 
@@ -144,13 +113,10 @@
   
   Profissão: Funcionário Público.
 
-  Desafios: Por conta de um acidente seus movimentos foram delimitados, é cadeirante.
+  Desafios: Tem carro próprio e não utiliza transportes públicos.
 
 
 ## Referências
 
-<p>Aplicativo buSP. Disponível em: https://www.buSP.com.br. Acesso em: 16 de fevereiro de 2022.</p>
-<p>Wiki Requisitos - Tesouro Direto. Disponível em: https://requisitos-de-software.github.io/2021.1-TesouroDireto/. Acesso em: 15 de fevereiro de 2022.</p>
-
-<p>Gerador de rostos. Disponível em: https://thispersondoesnotexist.com.1-TesouroDireto/. Acesso em: 04 de Abril de 2022.</p>
+<p>Gerador de rostos. Disponível em: https://thispersondoesnotexist.com. Acesso em: 24 de Maio de 2022.</p>
 
