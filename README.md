@@ -1,7 +1,7 @@
 
 <div align="center" >
 
-# Tembici
+# Transporte Público da Cidade de São Paulo
 
 <a href="https://requisitos-de-software.github.io/2021.2-Tembici/">
   <img src="./docs/assets/buSP.png" alt="Tembici logo" height="auto" width="300"  style="border-radius:50px">
