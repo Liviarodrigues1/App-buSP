@@ -4,7 +4,7 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|-|-|
-| 1.0 | 08/03/2022 | Criação do backlog do produto | Lívia Rodrigues |
+| 1.0 | 24/05 | Criação do backlog do produto | Lívia Rodrigues |
 
 
 *Tabela 1: Versionamento*
