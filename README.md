@@ -9,7 +9,7 @@
 
 ## 1. Sobre
 
-O buSP é um aplicativo móbile desenvolvido visando facilitar a mobilidade urbana. O serviço base do aplicativo é informações de ônibus para a locomoção na cidade. Foi desenvolvido com foco na melhoria de qualidade de vida da comunidade.
+O buSP é um aplicativo mobile desenvolvido visando facilitar a mobilidade urbana. O serviço base do aplicativo é informações de ônibus para a locomoção na cidade. Foi desenvolvido com foco na melhoria de qualidade de vida da comunidade.
 
 ## 2. Equipe
   
