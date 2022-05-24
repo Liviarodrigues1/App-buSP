@@ -22,7 +22,6 @@ nav:
   - Elicitação:
     - Técnicas: 
       - Instrospecção: ./elicitacao/tecnicas/introspeccao.md
-      - Observação: ./elicitacao/tecnicas/observacao.md
     - Personas: ./elicitacao/personas.md
   - Modelagem:
     - Casos de Uso: ./modelagem/casos_de_uso.md
