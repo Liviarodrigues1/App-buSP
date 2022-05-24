@@ -29,5 +29,3 @@
 
 *Tabela 3: Tabela contendo as ferramentas utilizadas no projeto*
 
-## Referências
-<p>Wiki Requisitos - Planejamento - Ferramentas. Disponível em: https://github.com/Requisitos-de-Software/2020.2-CarteiraDigitalTransito/blob/main/docs/planejamento.md. Acesso em: 24 de maio de 2022.</p>
