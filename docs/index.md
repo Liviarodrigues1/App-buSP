@@ -1,6 +1,7 @@
 # Início
 
-![Image title](./assets/tembici.svg){ width="300"}
+![Image title](./assets/buSP.png)
+
 *Imagem 1: Logo tembici*
 
 ## Versionamento do projeto

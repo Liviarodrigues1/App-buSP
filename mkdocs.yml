@@ -1,4 +1,4 @@
-site_name: Tembici
+site_name: buSP
 repo_url: https://liviarodrigues1.github.io/App-buSP/
 
 theme:
@@ -8,12 +8,9 @@ theme:
   palette:
     primary: pink
     accent: indigo
-  favicon: assets/tembiciFavIcon.ico
   logo: assets/buSP.png
   features:
     - navigation.tabs
-extra:
-  homepage: https://www.tembici.com.br
 
 nav: 
   - Início: ./index.md

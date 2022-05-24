@@ -4,7 +4,7 @@
 # Transporte Público da Cidade de São Paulo
 
 <a href="https://liviarodrigues1.github.io/App-buSP/">
-  <img src="./docs/assets/buSP.png" alt="Tembici logo" height="auto" width="300"  style="border-radius:50px">
+  <img src="./docs/assets/buSP.png" alt="buSP logo" height="auto" width="300"  style="border-radius:50px">
 </a>
 
 ## 1. Sobre
