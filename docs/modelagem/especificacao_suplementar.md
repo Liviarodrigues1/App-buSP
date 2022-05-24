@@ -3,7 +3,7 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
-| 1.0 | 25/02/2022 | Criação do artefato | Lívia Rodrigues |
+| 1.0 | 24/05 | Criação do artefato | Lívia Rodrigues |
 
 *Tabela 1: versionamento*
 
