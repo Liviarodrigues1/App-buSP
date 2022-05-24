@@ -1,0 +1,87 @@
+site_name: Tembici
+repo_url: https://github.com/Requisitos-de-Software/2021.2-Tembici
+
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    primary: pink
+    accent: indigo
+  favicon: assets/tembiciFavIcon.ico
+  logo: assets/tembiciAlt.png
+  features:
+    - navigation.tabs
+extra:
+  homepage: https://www.tembici.com.br
+
+nav: 
+  - Início: ./index.md
+  - Apresentações: 
+    - Primeira Apresentação: ./apresentacoes/apresentacao1.md
+    - Segunda Apresentação: ./apresentacoes/apresentacao2.md
+    - Terceira Apresentação: ./apresentacoes/apresentacao3.md
+    - Quarta Apresentação: ./apresentacoes/apresentacao4.md
+    - Quinta Apresentação: ./apresentacoes/apresentacao5.md
+    - Sexta Apresentação: ./apresentacoes/apresentacao6.md
+    - Apresentação Final: ./apresentacoes/apresentacaoFinal.md
+  - Planejamento: 
+    - Metodologia: ./planejamento/metodologia.md
+    - Ferramentas Utilizadas: ./planejamento/ferramentas.md
+    - Cronograma: ./planejamento/cronograma.md
+    - Heatmap: ./planejamento/heatmap.md
+    - Políticas: ./planejamento/politicas.md
+  - Pré-Rastreabilidade: 
+    - Rich Picture: ./pre-rastreabilidade/rich-picture.md
+    - 5W2H: ./pre-rastreabilidade/5w2h.md
+  - Elicitação:
+    - Técnicas: 
+      - Instrospecção: ./elicitacao/tecnicas/introspeccao.md
+      - Questionário: ./elicitacao/tecnicas/questionario.md
+      - Brainstorm: ./elicitacao/tecnicas/brainstorm.md
+      - Observação: ./elicitacao/tecnicas/observacao.md
+    - Resultados Elicitação: ./elicitacao/elicitacao_final.md
+    - Priorização: 
+        - MosCoW: ./elicitacao/priorizacao/moscow.md
+    - Personas: ./elicitacao/personas.md
+  - Modelagem:
+    - Casos de Uso: ./modelagem/casos_de_uso.md
+    - Cenários: ./modelagem/cenarios.md
+    - Especificação Suplementar: ./modelagem/especificacao_suplementar.md
+    - Léxicos: ./modelagem/lexicos.md
+    - NFR Framework: ./modelagem/nfrframework.md
+    - Istar: ./modelagem/istar.md
+    - Backlog:
+      - Backlog do Produto: ./modelagem/backlog/product_backlog.md
+      - Histórias de Usuário: ./modelagem/backlog/historias_de_usuario.md
+  - Análise:
+    - Verificação:
+      - Cenários: ./analise/verificacao/cenarios.md
+      - Rich Picture: ./analise/verificacao/richPicture.md
+      - Especificação Suplementar: ./analise/verificacao/especificacao_suplementar.md
+      - Casos de Uso: ./analise/verificacao/casos_de_uso.md
+      - Istar: ./analise/verificacao/istar.md
+      - NFR Framework: ./analise/verificacao/nfrframework.md
+      - Léxicos: ./analise/verificacao/lexicos.md
+      - Backlog:
+        - Backlog do Produto: ./analise/verificacao/product_backlog.md
+        - Histórias de Usuário: ./analise/verificacao/historias_de_usuario.md
+    - Validação:
+      - Validação Informal: ./analise/validacao/validacao_informal.md
+      - Protótipo: ./analise/validacao/prototipo.md
+      - Viewpoint: ./analise/validacao/viewpoint.md
+  - Pós-Rastreabilidade: 
+    - Backward-From: ./pos-rastreabilidade/backward-from.md
+    - Forward-From: ./pos-rastreabilidade/forward-from.md
+    - EAP: ./pos-rastreabilidade/eap.md
+  - Atas:
+    - Reunião 15/03: ./atas/ata_1503.md
+    - Reunião 23/03: ./atas/ata_2303.md
+    - Reunião 29/03: ./atas/ata_2903.md
+    - Reunião 08/04: ./atas/ata_0804.md
+    - Reunião 12/04: ./atas/ata_1204.md
+    - Reunião 19/04: ./atas/ata_1904.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
