@@ -55,7 +55,7 @@
 
   Desafios: Mesmo morando relativamente perto do seu trabalho, ao utilizar apenas meio de transporte próprio acaba enfrentando longos períodos de engarrafamento além de ter dificuldade para estacionar seu veículo quando chega no trabalho. Tudo isso somado aos elevados preços de combustível, provocam estresse diário e custos desnecessários.
 
-  Expectativas: Contornar o obstáculo do engarrafamento e do preço de combustível utilizando as bicicletas para se deslocar para o trabalho e de volta.
+  Expectativas: Contornar o obstáculo do engarrafamento e do preço de combustível utilizando as ônibus para se deslocar para o trabalho e de volta.
 
 ### Persona 3
 

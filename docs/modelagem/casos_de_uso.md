@@ -83,7 +83,7 @@
 | 3   | Descrição             | O usuário deverá conseguir ver o mapa com os pontos                   |
 | 4   | Atores                | Usuário                                                                                                        |
 | 5   | Pré-condições         | Dispositivo do usuário ter conexão com a internet, usuário estar com o aplicativo aberto                       |
-| 6   | Pós-condições         | Usuário visualizar as [bicicletas disponíveis](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#bicleta-disponivel) em cada estação na localiação desejada                            |
+| 6   | Pós-condições         | Usuário visualizar as [ônibus disponíveis](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#bicleta-disponivel) em cada estação na localiação desejada                            |
 | 7   | Cenários Principais   | Usuário navegar até a localização desejada                                                                     |
 | 8   | Cenários alternativos | -                                                                                                              |
 | 9   | Cenários de exceção   | Mapa estar indisponível                                                                                        |

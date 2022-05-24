@@ -71,10 +71,10 @@
 
 |**Feature**|**ID**|**História de usuário**| **Prioridade** |
 |:----------:|:----:|:----------------------| --------- |
-| <a href="https://liviarodrigues1.github.io/App-buSP/modelagem/backlog/historias_de_usuario/#feature6">Feature 06 - Mapa</a> | US11 </br></br> US12</br></br> US13 | Visualizar o mapa </br></br> Visualizar a quantidade de bicicletas </br></br> Visualizar a quantidade de vagas | MUST </br></br> MUST </br></br> MUST |
+| <a href="https://liviarodrigues1.github.io/App-buSP/modelagem/backlog/historias_de_usuario/#feature6">Feature 06 - Mapa</a> | US11 </br></br> US12</br></br> US13 | Visualizar o mapa </br></br> Visualizar a quantidade de ônibus </br></br> Visualizar a quantidade de vagas | MUST </br></br> MUST </br></br> MUST |
 | <a href="https://liviarodrigues1.github.io/App-buSP/modelagem/backlog/historias_de_usuario/#feature7">Feature 07 - Localização</a> | US14 </br></br> US15 | Localização em tempo real </br></br> Estações próximas ao usuário ou ao seu destino | SHOULD </br></br> MUST|
-| <a href="https://liviarodrigues1.github.io/App-buSP/modelagem/backlog/historias_de_usuario/#feature8">Feature 08 - Retirada</a> | US16 </br></br> US17 </br></br> US18 | Retirar bicicleta em determinado local </br></br> Retirar bicicleta pelo QR code </br></br> Retirar bicicleta pelo código no aplicativo | MUST </br></br> SHOULD </br></br> SHOULD |
-| <a href="https://liviarodrigues1.github.io/App-buSP/modelagem/backlog/historias_de_usuario/#feature9">Feature 09 - Devolução</a> | US19 | Devolução da bicicleta | MUST|
+| <a href="https://liviarodrigues1.github.io/App-buSP/modelagem/backlog/historias_de_usuario/#feature8">Feature 08 - Retirada</a> | US16 </br></br> US17 </br></br> US18 | Retirar ônibus em determinado local </br></br> Retirar ônibus pelo QR code </br></br> Retirar ônibus pelo código no aplicativo | MUST </br></br> SHOULD </br></br> SHOULD |
+| <a href="https://liviarodrigues1.github.io/App-buSP/modelagem/backlog/historias_de_usuario/#feature9">Feature 09 - Devolução</a> | US19 | Devolução da ônibus | MUST|
 
 *Tabela 5: Épico 03*
 <br><br>

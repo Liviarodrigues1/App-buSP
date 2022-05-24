@@ -90,10 +90,10 @@
 
 *Tabela 5: Descrição do Cenário Escolher Ajuda*
 
-<div id="bicicleta-disponivel"></div>
+<div id="ônibus-disponivel"></div>
 
 ### C05 -  Vizualizar ônibus disponíveis
-| Título |  Vizualizar Bicicletas Disponíveis |
+| Título |  Vizualizar ônibus Disponíveis |
 | -- | -- |
 | Objetivo | Poder ver os ônibus disponíveis em cada estação |
 | Contexto | pré-condição: App instalado<br>pós-condição: Ver localização das estações e os ôninus disponíveis em cada uma |
@@ -103,4 +103,4 @@
 | Restrições | Fluxo intuitivo | 
 | Exceção | Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
 
-*Tabela 6: Descrição do Cenário Vizualizar Bicicletas Disponíveis*
+*Tabela 6: Descrição do Cenário Vizualizar ônibus Disponíveis*

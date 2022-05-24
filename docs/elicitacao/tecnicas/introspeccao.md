@@ -26,7 +26,7 @@ Requisitos levantados:
 | IT05 | O usuário poderá por meio do mapa visualizar sua localização atual | 
 | IT06 | O usuário poderá verificar a quantidade de ônibus em cada ponto | 
 | IT07 | O usuário deverá estar logado para conseguir visualizar o sistema |
-| IT08 | O usuário poderá visualizar enquanto estiver em viagem o tempo que está sobre posse da bicicleta | RF |
+| IT08 | O usuário poderá visualizar enquanto estiver em viagem o tempo que está sobre posse da ônibus | RF |
 | IT09 | O usuário poderá visualizar suas linhas favoritas | 
 | IT10 | O usuário poderá consultar informações sobre o sistema e como funciona sua utilização | 
 
