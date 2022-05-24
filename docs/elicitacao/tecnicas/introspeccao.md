@@ -18,7 +18,7 @@
 Requisitos levantados:
 
 | Código | Requisito |
-|:--:|--|:--:|
+|:--:|--|
 | IT01 | O usuário deverá poder acessar o aplicativo utilizando seu aparelho móvel | 
 | IT02 | O usuário poderá visualizar as informações em tempo real | 
 | IT03 | O usuário poderá visualizar onde estão localizados os pontos | 
