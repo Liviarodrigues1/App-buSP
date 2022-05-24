@@ -3,7 +3,7 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
-| 1.0 | 18/02/2022 | Introspecção Requisitos | Livia Rodriges |
+| 1.0 | 24/05 | Introspecção Requisitos | Livia Rodriges |
 
 *Tabela 1: versionamento*
 
