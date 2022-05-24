@@ -4,12 +4,7 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|-|-|
-| 1.0 | 08/03/2022 | Criação do backlog do produto | Paulo Henrique, Gabriel Sabanai |
-| 1.1 | 21/03/2022 | Modificações Pós-Verificação | João Victor |
-| 1.2 | 08/04/2022 | Revisão e Adição revisor | Luiz Henrique, João Victor, Livia Rodrigues |
-| 1.3 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
-| 1.4 | 14/04/2022 | Revisão e Refatoração | João Victor |
-| 1.5 | 20/04/2022 | Adicionando novos requisitos | Luiz Henrique |
+| 1.0 | 08/03/2022 | Criação do backlog do produto | Lívia Rodrigues |
 
 
 *Tabela 1: Versionamento*
@@ -55,17 +50,6 @@
 *Tabela 3: Épico 01*
 <br><br>
 
-### Épico 02 - Planos e pagamentos
-<div id="epico2"></div>
-
-|**Feature**|**ID**|**História de usuário**| **Prioridade** |
-|:----------:|:----:|:----------------------| --------- |
-| <a href="https://liviarodrigues1.github.io/App-buSP/modelagem/backlog/historias_de_usuario/#feature4">Feature 04 - Comprar Planos</a> | US06 </br></br> US07 </br></br> US08 </br></br> US09 | Visualizar planos </br></br> Adquirir planos </br></br> Inserir dados do cartão de crédito </br></br> Utilizar cupom promocional | MUST </br></br> MUST </br></br> MUST </br></br> SHOULD |
-| <a href="https://liviarodrigues1.github.io/App-buSP/modelagem/backlog/historias_de_usuario/#feature5">Feature 05 - Multa</a> | US10 | Pagamento de custos adicionais | MUST |
-
-*Tabela 4: Épico 02*
-<br><br>
-
 ### Épico 03 - Viagens
 <div id="epico3"></div>
 
@@ -91,4 +75,4 @@
 
 ## Referências
 
-<p>SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 15. 1º/2019. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. Acesso em: 08 de março de 2022.</p>
+<p>SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 15. 1º/2019. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. Acesso em: 24 de maio de 2022.</p>
