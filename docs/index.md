@@ -17,13 +17,7 @@ Repositório do projeto realizado sobre a aplicação buSP. Este repositório re
 
 ## Por que o buSP?
 
-O buSP é um aplicativo móbile desenvolvido  visando facilitar a mobilidade urbana. O serviço base do aplicativo é o aluguel de bicicletas para a locomoção na cidade,  sendo utilizado como objetivo de estudo visando a aplicação conteúdo ministrado na disciplina de Requisitos de Software. A escolha do aplicativo, dentre outros fatores, foi devido ao seu enfoque na melhoria de qualidade de vida da comunidade.
-
-## buSP em outros repositórios
-
-Até o dia de hoje, 8 de fevereiro de 2020, não existem repositórios públicos que visam documentar o aplicativo buSP. Por enquanto, todos os respositórios existentes relacionados a aplicação são desafios de implementação de funcionalidades no back-end, ou criação de clones da plataforma pelo front-end ou, então, por fim com o intuito de divulgar vagas para desenvolvedores.
-
-Dessa forma, não existe nenhum repositório, que visa documentar o sistema, no qual a nossa equipe conseguiria se basear ou retirar informações que possam prejudicar a aplicação do aprendizado da disciplina.
+O buSP é um aplicativo mobile desenvolvido visando facilitar a mobilidade urbana. O serviço base do aplicativo é informações de ônibus para a locomoção na cidade. Foi desenvolvido com foco na melhoria de qualidade de vida da comunidade.
 
 ## Equipe
 
@@ -32,7 +26,3 @@ Dessa forma, não existe nenhum repositório, que visa documentar o sistema, no 
 | ![Lívia](./assets/team/livia.jpg){width="80"}          | Lívia Rodrigues       | liviarodriguesre@gmail.com       | [@Liviarodrigues1](https://github.com/Liviarodrigues1) |
 
 *Tabela 2: Tabela de membros*
-
-## Referências
-
-<p>App buSP: sobre nós. Disponível em: https://www.buSP.com.br/sobre-nos/. Acesso em: 16 de fevereiro de 2022.</p>
