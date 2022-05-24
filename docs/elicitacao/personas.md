@@ -3,11 +3,7 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
-| 1.0 | 19/02/2022 | Adição de personas | Lívia Rodrigues, João Victor |
-| 1.1 | 24/02/2022 | Padronização da página | Luiz Henrique, Victor Eduardo |
-| 1.2 | 20/02/2022 | Revisão | João Victor, Lívia Rodrigues, Luiz Henrique |
-| 1.3 | 04/03/2022 | Adição revisor e adição revisor | Luiz Henrique |
-| 1.4 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
+| 1.0 | 24/05 | Adição de personas | Lívia Rodrigues, João Victor |
 
 *Tabela 1: versionamento*
 
