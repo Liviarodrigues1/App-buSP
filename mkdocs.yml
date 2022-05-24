@@ -9,7 +9,7 @@ theme:
     primary: pink
     accent: indigo
   favicon: assets/tembiciFavIcon.ico
-  logo: assets/tembiciAlt.png
+  logo: assets/buSP.png
   features:
     - navigation.tabs
 extra:
