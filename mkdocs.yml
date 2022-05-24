@@ -6,7 +6,7 @@ theme:
   icon:
     repo: fontawesome/brands/github
   palette:
-    primary: pink
+    primary: red
     accent: indigo
   logo: assets/buSP.png
   features:

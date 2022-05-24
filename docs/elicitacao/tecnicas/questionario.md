@@ -45,7 +45,7 @@
 #### Questão 5
 ![Resposta 5](../../assets/elicitacao/questionario/Resposta5.jpg)
 <p align="center">Imagem 5 - Pergunta sobre o conhecimento do entrevistado sobre o app</p>
-<p align="justify">&emsp;A pergunta é importante para saber a popularidade do app dentre os entrevistados. Obteve-se que os entrevistados, em sua maioria, não tinha ouvido falar do Tembici, indicando uma flata de popularidade do app, consequência de uma possível falha no markenting do app.</p>
+<p align="justify">&emsp;A pergunta é importante para saber a popularidade do app dentre os entrevistados. Obteve-se que os entrevistados, em sua maioria, não tinha ouvido falar do buSP, indicando uma flata de popularidade do app, consequência de uma possível falha no markenting do app.</p>
 
 #### Questão 6
 ![Resposta 6](../../assets/elicitacao/questionario/Resposta6.jpg)
@@ -86,5 +86,5 @@ Requisitos levantados:
 
 ## Referências
 
-<p>Aplicativo Tembici. Disponível em: https://www.tembici.com.br. Acesso em: 16 de fevereiro de 2022.</p>
+<p>Aplicativo buSP. Disponível em: https://www.buSP.com.br. Acesso em: 16 de fevereiro de 2022.</p>
 <p>Wiki Requisitos - Tesouro Direto. Disponível em: https://requisitos-de-software.github.io/2021.1-TesouroDireto/. Acesso em: 15 de fevereiro de 2022.</p>

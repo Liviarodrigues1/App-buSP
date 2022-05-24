@@ -21,15 +21,15 @@ Mensagem por e-mail:
 
 ![Email](../../assets/analise/validacao/email.png)
 
-*Imagem 1: Email enviado a equipe do Tembici*
+*Imagem 1: Email enviado a equipe do buSP*
 
 *Autor: Livia Rodrigues*
  
 ## Resultados
 
-<p align="justify">&emsp;&emsp;Foi realizado primeiramente um contato por e-mail com a equipe técnica do Tembici onde não ouve resposta da empresa, continuamos a tentativa de contato por meio de mensagens de texto diretas para alguns funcionarios.</p>
+<p align="justify">&emsp;&emsp;Foi realizado primeiramente um contato por e-mail com a equipe técnica do buSP onde não ouve resposta da empresa, continuamos a tentativa de contato por meio de mensagens de texto diretas para alguns funcionarios.</p>
 
-<p align="justify">&emsp;&emsp; Como resultados, conseguimos realizar o contato e validação com um funcionário da Tembici:</p>
+<p align="justify">&emsp;&emsp; Como resultados, conseguimos realizar o contato e validação com um funcionário da buSP:</p>
 
 - **Resposável pelo contato:** Paulo Henrique
 

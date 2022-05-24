@@ -19,7 +19,7 @@
 
 ## Metodologia
 <p align="justify">&emsp;&emsp;O Brainstorm pode ser utilizado nos mais variados setores. Dentro da Engenharia de Software, é comumente utilizada na etapa de elicitação de requisitos junto ao cliente ou usuário. Assim, a equipe consegue acompanhar junto ao cliente as melhores soluções e ideias para o sistema. Caso necessário, a tecnica pode ser utilizada durante depois para revisão ou adição de alguma funcionalidade.</p> 
-<p align="justify">&emsp;&emsp;Dentro do projeto do Tembici, os estudantes Gabriel Sabanai e Luiz Henrique elaboraram perguntas e coordenaram o grupo para que complementassem ou debatessem a respeito das questões criadas. Dessa forma, foi possível levantar mais vertentes a respeito da aplicação por meio dessa dinâmica em grupo, o qual é a proposta do Brainstorm. O artefato foi feito com a presença de todos os integrantes do grupo numa reunião via Goolge Meet, e guiada pelos integrantes Luiz e Gabriel.</p> 
+<p align="justify">&emsp;&emsp;Dentro do projeto do buSP, os estudantes Gabriel Sabanai e Luiz Henrique elaboraram perguntas e coordenaram o grupo para que complementassem ou debatessem a respeito das questões criadas. Dessa forma, foi possível levantar mais vertentes a respeito da aplicação por meio dessa dinâmica em grupo, o qual é a proposta do Brainstorm. O artefato foi feito com a presença de todos os integrantes do grupo numa reunião via Goolge Meet, e guiada pelos integrantes Luiz e Gabriel.</p> 
 
 ## Questionamentos
 
@@ -133,5 +133,5 @@ Requisitos levantandos:
 
 ## Referências
 
-<p>Aplicativo Tembici. Disponível em: https://www.tembici.com.br. Acesso em: 16 de fevereiro de 2022.</p>
+<p>Aplicativo buSP. Disponível em: https://www.buSP.com.br. Acesso em: 16 de fevereiro de 2022.</p>
 <p>Wiki Requisitos - Tesouro Direto. Disponível em: https://requisitos-de-software.github.io/2021.1-TesouroDireto/. Acesso em: 15 de fevereiro de 2022.</p>

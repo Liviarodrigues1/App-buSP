@@ -27,6 +27,6 @@
 
 ## Referências
 
-<p>Aplicativo Tembici. Disponível em: https://www.tembici.com.br. Acesso em: 20 de Abril de 2022.</p>
+<p>Aplicativo buSP. Disponível em: https://www.buSP.com.br. Acesso em: 20 de Abril de 2022.</p>
 
 <p>WIEGERS, Karl et al. Requirements elicitation: Observations. In: SOFTWARE Requirements. 3. ed. [S. l.: s. n.], 2013. cap. 7, p. 125-126. Acesso em: 20 de Abril de 2022.</p>

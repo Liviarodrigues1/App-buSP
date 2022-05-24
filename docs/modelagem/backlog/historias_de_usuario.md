@@ -139,8 +139,8 @@
 
 |**ID**|**História de Usuário**|**Critérios de Aceitação**| **Prioridade** | 
 |:----------:|:----:|:----------------------|-------------|
-| US20 | Eu, como usuário(a), gostaria de saber as regras de utilização do serviço para saber como utilizar corretamente o Tembici | > Deve conter um menu <br/> > Deve solicitar a seleção da cidade de acesso do usuário <br/>  > Deve conter uma central de ajuda <br/> | MUST |
-| US21 | Eu, como usuário(a), gostaria de tirar dúvidas gerais sobre o serviço para ter um bom entendimento da utilização do Tembici | > Deve conter um menu <br/> > Deve solicitar a seleção da cidade de acesso do usuário <br/>  > Deve conter uma central de ajuda <br/> | SHOULD |
+| US20 | Eu, como usuário(a), gostaria de saber as regras de utilização do serviço para saber como utilizar corretamente o buSP | > Deve conter um menu <br/> > Deve solicitar a seleção da cidade de acesso do usuário <br/>  > Deve conter uma central de ajuda <br/> | MUST |
+| US21 | Eu, como usuário(a), gostaria de tirar dúvidas gerais sobre o serviço para ter um bom entendimento da utilização do buSP | > Deve conter um menu <br/> > Deve solicitar a seleção da cidade de acesso do usuário <br/>  > Deve conter uma central de ajuda <br/> | SHOULD |
 | US22 | Eu, como usuário(a), gostaria de contatar algum atendente por meio de chat para retirar dúvidas mais específicas | > Deve conter um menu <br/> >Deve solicitar a seleção da cidade de acesso do usuário <br/>  > Deve conter um chat pelo qual o usuário pode se comunicar com o atendente virtual <br/> | SHOULD |
 | US23 | Eu, como usuário(a), gostaria de reportar problemas mecânicos com a bicicleta, problemas mecânicos com a estação e problemas no pagamento | > Deve conter um menu <br/> >Deve solicitar a seleção da cidade de acesso do usuário <br/>  > Deve conter um chat pelo qual o usuário pode se comunicar com o atendente virtual <br/> | SHOULD |
 

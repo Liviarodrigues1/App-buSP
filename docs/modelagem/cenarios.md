@@ -45,11 +45,11 @@
 ### C01 - [Cadastrar usuário](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#cadastrar-usuario) por email
 | Título | Cadastrar usuário por email |
 | -- | -- |
-| Objetivo | Criar perfil para o usuário no Tembici utilizando email |
+| Objetivo | Criar perfil para o usuário no buSP utilizando email |
 | Contexto | pré-condição: Possuir email válido<br>pós-condição: Perfil do usuário é criado |
 | Atore | Usuário |
 | Recursos | Acesso à internet<br>App intalado |
-| Episódios | 1. O usuário não cadastrado acessa o aplicativo Tembici<br>2. O usuário não cadastrado seleciona a opção de criar conta<br>3. O usuário não cadastrado insere email e senha e seleciona o botão "Continuar"<br> |
+| Episódios | 1. O usuário não cadastrado acessa o aplicativo buSP<br>2. O usuário não cadastrado seleciona a opção de criar conta<br>3. O usuário não cadastrado insere email e senha e seleciona o botão "Continuar"<br> |
 | Restrições | Fluxo intuitivo | 
 | Exceção | Email inválido<br>Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
 
@@ -60,11 +60,11 @@
 ### C02 - [Acessar a conta](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#logar)
 | Título | Acessar a conta |
 | -- | -- |
-| Objetivo | Acessar a conta usuário no Tembici |
-| Contexto | pré-condição: Não estar logado na conta<br>pós-condição: Usuário logado no Tembici |
+| Objetivo | Acessar a conta usuário no buSP |
+| Contexto | pré-condição: Não estar logado na conta<br>pós-condição: Usuário logado no buSP |
 | Atore | Usuário |
 | Recursos | Acesso à internet<br>App intalado<br>Possuir conta criada |
-| Episódios | 1. O usuário acessa o aplicativo Tembici<br>2. O usuário seleciona a opção de "Fazer seu login"<br>3. O usuário insere email e senha e seleciona o botão "Continuar"<br> |
+| Episódios | 1. O usuário acessa o aplicativo buSP<br>2. O usuário seleciona a opção de "Fazer seu login"<br>3. O usuário insere email e senha e seleciona o botão "Continuar"<br> |
 | Restrições | Fluxo intuitivo | 
 | Exceção | Email inválido<br>Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
 
@@ -76,7 +76,7 @@
 | Título | Sair da Conta |
 | -- | -- |
 | Objetivo | Sair da conta logada no app |
-| Contexto | pré-condição: Usuário logado no Tembici<br>pós-condição: [Logout da conta](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#nao-logado) |
+| Contexto | pré-condição: Usuário logado no buSP<br>pós-condição: [Logout da conta](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#nao-logado) |
 | Atore | Usuário |
 | Recursos | Acesso à internet<br>Usuário logado no app |
 | Episódios | 1. O usuário acessa a tela de opções<br>2. O usuário seleciona o botão de "Sair" |
@@ -90,8 +90,8 @@
 ### C04 - Escolher Ajuda
 | Título | Escolher Ajuda |
 | -- | -- |
-| Objetivo | Consultar informações sobre os serviços do Tembici |
-| Contexto | pré-condição: [Usuário logado](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#logar) no Tembici<br>pós-condição: Ver informações sobre o funcionamento do app |
+| Objetivo | Consultar informações sobre os serviços do buSP |
+| Contexto | pré-condição: [Usuário logado](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#logar) no buSP<br>pós-condição: Ver informações sobre o funcionamento do app |
 | Atore | Usuário |
 | Recursos | Acesso à internet<br>App intalado<br>Usuário logado no app |
 | Episódios | 1. O usuário acessa a tela de opções<br>2. O usuário seleciona o botão de "Ajuda"<br>3. O usuário seleciona sua cidade<br>4. O usuário seleciona o tópico que quer consultar |
@@ -105,11 +105,11 @@
 ### C05 - Escolher Planos e Pagamento
 | Título | Escolher Planos e Pagamento |
 | -- | -- |
-| Objetivo | Consultar as opções de planos de [assinatura](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#plano) do Tembici |
-| Contexto | pré-condição: Usuário logado no Tembici<br>pós-condição: Ver informações sobre os planos do app |
+| Objetivo | Consultar as opções de planos de [assinatura](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#plano) do buSP |
+| Contexto | pré-condição: Usuário logado no buSP<br>pós-condição: Ver informações sobre os planos do app |
 | Atore | Usuário |
 | Recursos | Acesso à internet<br>App intalado<br>Usuário logado no app |
-| Episódios | 1. O usuário acessa a tela de opções<br>2. O usuário seleciona o botão de "Planos e pagamento"<br>3. O usuário seleciona sua cidade<br>4. O usuário seleciona o botão de "Conheça os planos Tembici" |
+| Episódios | 1. O usuário acessa a tela de opções<br>2. O usuário seleciona o botão de "Planos e pagamento"<br>3. O usuário seleciona sua cidade<br>4. O usuário seleciona o botão de "Conheça os planos buSP" |
 | Restrições | Fluxo intuitivo | 
 | Exceção | Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
 
@@ -121,10 +121,10 @@
 | Título | Assinar Plano |
 | -- | -- |
 | Objetivo | Comprar um plano para utilizar os serviços do app |
-| Contexto | pré-condição: Usuário logado no Tembici<br>pós-condição: Plano comprado |
+| Contexto | pré-condição: Usuário logado no buSP<br>pós-condição: Plano comprado |
 | Atore | [Usuário](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#usuario) |
 | Recursos | Acesso à internet<br>App intalado<br>Usuário logado no app |
-| Episódios | 1. O usuário acessa a tela de opções<br>2. O usuário seleciona o botão de "Comprar Plano"<br>3. O usuário seleciona sua cidade<br>4. O usuário seleciona o botão de "Conheça os planos Tembici"<br>5. O usuário seleciona o plano de sua escolha<br>6. O usuário cadastra um cartão ou seleciona um cartão cadastrado<br>7. O usuário seleciona o botão de "Comprar Plano" |
+| Episódios | 1. O usuário acessa a tela de opções<br>2. O usuário seleciona o botão de "Comprar Plano"<br>3. O usuário seleciona sua cidade<br>4. O usuário seleciona o botão de "Conheça os planos buSP"<br>5. O usuário seleciona o plano de sua escolha<br>6. O usuário cadastra um cartão ou seleciona um cartão cadastrado<br>7. O usuário seleciona o botão de "Comprar Plano" |
 | Restrições | Fluxo intuitivo | 
 | Exceção | Cartão inválido<br>Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
 
@@ -139,7 +139,7 @@
 | Contexto | pré-condição: App instalado<br>pós-condição: Ver localização das estações e o número de bicicletas disponíveis em cada uma |
 | Atore | Usuário |
 | Recursos | Acesso à internet<br>App intalado |
-| Episódios | 1. O usuário acessa o Tembici<br>2. O usuário navega pelo mapa da tela inicial |
+| Episódios | 1. O usuário acessa o buSP<br>2. O usuário navega pelo mapa da tela inicial |
 | Restrições | Fluxo intuitivo | 
 | Exceção | Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
 
@@ -154,7 +154,7 @@
 | Contexto | pré-condição: App instalado<br>pós-condição: Ver localização das estações e o número de vagas disponíveis em cada uma |
 | Atore | Usuário |
 | Recursos | Acesso à internet<br>App intalado |
-| Episódios | 1. O usuário acessa o Tembici<br>2. O usuário seleciona uma estação |
+| Episódios | 1. O usuário acessa o buSP<br>2. O usuário seleciona uma estação |
 | Restrições | Fluxo intuitivo | 
 | Exceção | Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
 
@@ -169,7 +169,7 @@
 | Contexto | pré-condição: App instalado<br>pós-condição: Ver informações sobre uma estação |
 | Atore | Usuário |
 | Recursos | Acesso à internet<br>App intalado |
-| Episódios | 1. O usuário acessa o [Tembici](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#software)<br>2. O usuário seleciona uma estação |
+| Episódios | 1. O usuário acessa o [buSP](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#software)<br>2. O usuário seleciona uma estação |
 | Restrições | Fluxo intuitivo | 
 | Exceção | Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
 
@@ -181,7 +181,7 @@
 | Título |  Vizualizar Histórico de Viagens |
 | -- | -- |
 | Objetivo | Consultar informações sobre as viagens realizadas pelo usuário |
-| Contexto | pré-condição: Usuário logado no Tembici<br>pós-condição: Ver informações sobre as viagens realizadas |
+| Contexto | pré-condição: Usuário logado no buSP<br>pós-condição: Ver informações sobre as viagens realizadas |
 | Atore | Usuário |
 | Recursos | Acesso à internet<br>App intalado<br>Usuário logado no app |
 | Episódios | 1. O usuário acessa a tela de opções<br>2. O usuário seleciona o botão de "Viagens" |
@@ -196,10 +196,10 @@
 | Título | Desbloquear Bicicleta por QR Code |
 | -- | -- |
 | Objetivo | Poder utilizar a camera para escanear um QR Code e desbloquear uma bicicleta |
-| Contexto | pré-condição: Usuário logado no Tembici<br>pós-condição: Desbloquear uma bicicleta |
+| Contexto | pré-condição: Usuário logado no buSP<br>pós-condição: Desbloquear uma bicicleta |
 | Atore | Usuário |
 | Recursos | Acesso à internet<br>App intalado<br>Usuário logado |
-| Episódios | 1. O usuário acessa o Tembici<br>2. O usuário seleciona uma estação<br>2. O usuário seleciona o botão de "Ler QR Code" |
+| Episódios | 1. O usuário acessa o buSP<br>2. O usuário seleciona uma estação<br>2. O usuário seleciona o botão de "Ler QR Code" |
 | Restrições | Fluxo intuitivo | 
 | Exceção | Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
 
@@ -211,10 +211,10 @@
 | Título | Desbloquear Bicicleta por código de acesso |
 | -- | -- |
 | Objetivo | Poder gerar um código de acesso para desbloquear uma bicicleta |
-| Contexto | pré-condição: Usuário logado no Tembici<br>pós-condição: Desbloquear uma bicicleta |
+| Contexto | pré-condição: Usuário logado no buSP<br>pós-condição: Desbloquear uma bicicleta |
 | Atore | Usuário |
 | Recursos | Acesso à internet<br>App intalado<br>Usuário logado |
-| Episódios | 1. O usuário acessa o Tembici<br>2. O usuário seleciona uma estação<br>2. O usuário seleciona o botão de "Gerar código" |
+| Episódios | 1. O usuário acessa o buSP<br>2. O usuário seleciona uma estação<br>2. O usuário seleciona o botão de "Gerar código" |
 | Restrições | Fluxo intuitivo | 
 | Exceção | Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
 

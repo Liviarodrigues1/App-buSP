@@ -149,7 +149,7 @@
 
 ## Referências
 
-<p>Aplicativo Tembici. Disponível em: https://www.tembici.com.br. Acesso em: 16 de fevereiro de 2022.</p>
+<p>Aplicativo buSP. Disponível em: https://www.buSP.com.br. Acesso em: 16 de fevereiro de 2022.</p>
 <p>Wiki Requisitos - Tesouro Direto. Disponível em: https://requisitos-de-software.github.io/2021.1-TesouroDireto/. Acesso em: 15 de fevereiro de 2022.</p>
 
 <p>Gerador de rostos. Disponível em: https://thispersondoesnotexist.com.1-TesouroDireto/. Acesso em: 04 de Abril de 2022.</p>

@@ -10,7 +10,7 @@
 *Tabela 1: versionamento*
 
 ## Introdução
-<p> As ferramentas serão softwares utilizados pelo time do projeto para facilitar o gerenciamento, comunicação e desenvolvimento da documentação necessária para o tema utilizado na disciplina. Projeto esse que o foco será a construção dos requsitos do aplicativo tembici. </p>
+<p> As ferramentas serão softwares utilizados pelo time do projeto para facilitar o gerenciamento, comunicação e desenvolvimento da documentação necessária para o tema utilizado na disciplina. Projeto esse que o foco será a construção dos requsitos do aplicativo buSP. </p>
 
 *Tabela 2: introdução*
 
@@ -25,7 +25,7 @@
 | ![Sheets](../assets/planejamento/logos/googleSheets.png){width="80"}| Google Sheets | Analisar horários que o time estará disponível. |
 | ![Miro](../assets/planejamento/logos/miro.png){width="80"}| Miro | Criação de diagramas e kanban da entrega dos artefatos. |
 | ![Vscode](../assets/planejamento/logos/vscode.png){width="80"}| Visual Studio Code | Ferramenta usada para edição dos documentos. |
-| ![Tembici](../assets/buSP.png){width="80"}| Tembici App | Aplicação tema a ser analisado. |
+| ![buSP](../assets/buSP.png){width="80"}| buSP App | Aplicação tema a ser analisado. |
 
 *Tabela 3: Tabela contendo as ferramentas utilizadas no projeto*
 

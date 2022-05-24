@@ -29,7 +29,7 @@
 | 3   | Descrição             | Breve descrição do caso de uso                                                                     |
 | 4   | Atores                | Lista dos atores envolvidos no caso de uso                                                         |
 | 5   | Pré-condições         | Todas as restrições que devem ser atendidas antes que o caso de uso possa iniciar sua execução     |
-| 6   | Pós-condições         | Lista do estado em que o [sistema](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#Tembici) se encontrará imediatamente após a execução do cenário principal |
+| 6   | Pós-condições         | Lista do estado em que o [sistema](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#buSP) se encontrará imediatamente após a execução do cenário principal |
 | 7   | Cenários Principais   | Descrição do cenário, ou fluxo, principal do caso de uso                                           |
 | 8   | Cenários alternativos | Descrição dos [cenários](https://liviarodrigues1.github.io/App-buSP/modelagem/cenarios/#introducao), ou fluxos, alternativos do caso de uso                                     |
 | 9   | Cenários de exceção   | Descrição dos cenários, ou fluxos, de exceção do caso de uso                                       |

@@ -20,7 +20,7 @@
 <p align="justify">&emsp;&emsp;O presente aretefato foi feito pelo integrante do grupo Victor Eduardo, para que se levantasse os requisitos não-funcionais do aplicativo.</p>
 
 ### Funcionalidade
-&emsp;&emsp;Todas as funcionalidades do aplicativo Tembici podem ser encontradas na [lista de priorização](https://liviarodrigues1.github.io/App-buSP/elicitacao/priorizacao/moscow/) e nos [casos de usos](https://liviarodrigues1.github.io/App-buSP/modelagem/casos_de_uso/) do projeto.</p>
+&emsp;&emsp;Todas as funcionalidades do aplicativo buSP podem ser encontradas na [lista de priorização](https://liviarodrigues1.github.io/App-buSP/elicitacao/priorizacao/moscow/) e nos [casos de usos](https://liviarodrigues1.github.io/App-buSP/modelagem/casos_de_uso/) do projeto.</p>
 
 ### Usabilidade
 #### Facilidade de uso
@@ -65,13 +65,13 @@
 - O aplicativo precisa de 60MB(megabyte) de armazenamento em sistemas Android e 59MB em sistemas iOS.
 
 ### Suportabilidade
-- O sistema do [Tembici](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#Tembici) está disponível para plataforma Mobile. Funcionando nos sistemas operacionais mobile Android, nas versões 5.0 ou superior, e iOS nas versões iOS 12.0 ou posterior.
+- O sistema do [buSP](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#buSP) está disponível para plataforma Mobile. Funcionando nos sistemas operacionais mobile Android, nas versões 5.0 ou superior, e iOS nas versões iOS 12.0 ou posterior.
 
 ### Restrições de Design
 #### Suporte a Idiomas
-- O [sistema](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#Tembici) fornece uma grande variedade de línguas, e a linguagem do app varia de acordo com a linguagem utilizada no aparelho
+- O [sistema](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#buSP) fornece uma grande variedade de línguas, e a linguagem do app varia de acordo com a linguagem utilizada no aparelho
 #### Conteúdo
-- O [sistema](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#Tembici) deve disponibilizar a visuzalização dos locais das estações bem como a quantidade de bicicletas em cada em um mapa
+- O [sistema](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#buSP) deve disponibilizar a visuzalização dos locais das estações bem como a quantidade de bicicletas em cada em um mapa
 
 ### Requisitos de Sistema de Ajuda e de Documentação de [Usuário](https://liviarodrigues1.github.io/App-buSP/modelagem/lexicos/#usuario) On-line
 #### Sessão de Ajuda
@@ -103,4 +103,4 @@
 
 <p> FURPS+. QualidadeBR, 10 de julho de 2008. Disponível em: <https://qualidadebr.wordpress.com/2008/07/10/furps/#:~:text=FURPS%2B%20%C3%A9%20um%20sistema%20para,Rational%20Unified%20Process%20(RUP)%3A>. Acesso em: 26 de fevereiro de 2022.</p>
 
-<p> Aplicativo Tembici. Disponível em: https://www.tembici.com.br. Acesso em: 26 de fevereiro de 2022. </p>
+<p> Aplicativo buSP. Disponível em: https://www.buSP.com.br. Acesso em: 26 de fevereiro de 2022. </p>

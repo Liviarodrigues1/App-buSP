@@ -80,7 +80,7 @@
 |LO04|**Usuário**|
 |---|------------------|
 |**Sinônimos**|Cliente|
-|**Noção**|Pessoa que irá usar o aplicativo tembici|
+|**Noção**|Pessoa que irá usar o aplicativo buSP|
 |**Impacto**|O <a href="#usuario" > usuário </a> pederá pagar o<a href="#plano"> plano</a> que a plataforma oferece para que possa usufruir do serviço e consequentemente andar de bicicleta pela cidade| 
 
 <div id="requisito"></div>
@@ -97,14 +97,14 @@
 |---|------------------|
 |**Sinônimos**|Depósito, Armazenamento|
 |**Noção**|Lugar aonde guardamos de forma online todos as nossas documentações|
-|**Impacto**| Pessoas que precisarem da documentação para entender melhor o que o <a href="#tembici" > software </a> oferece, poderão acessar o repositório do projeto a fim de conhecer um pouco mais sobre o aplicativo |
+|**Impacto**| Pessoas que precisarem da documentação para entender melhor o que o <a href="#buSP" > software </a> oferece, poderão acessar o repositório do projeto a fim de conhecer um pouco mais sobre o aplicativo |
 
 <div id="software"></div>
 
 |LO07|**Software**|
 |---|------------------|
 |**Sinônimos**|Programa, Aplicativo, App, Sistema|
-|**Noção**|Referência para algum aplicativo, muitas das vezes usadas no projeto para fazer menção ao Tembici|
+|**Noção**|Referência para algum aplicativo, muitas das vezes usadas no projeto para fazer menção ao buSP|
 |**Impacto**| O <a href="#usuario" > usuário </a> poderá acessar o software e usar o aplicativo para olhar o local mais próximo que tenha bicleta disponível |
 
 <div id="sprint"></div>
@@ -124,9 +124,9 @@
 |**Impacto**| O<a href="#plano"> plano</a> escolhido libera uma categoria de benefício para o Usuário, podendo variar o preço de acordo com o plano escolhido |
 
 
-<div id="Tembici"></div>
+<div id="buSP"></div>
 
-|LO09|**Tembici**|
+|LO09|**buSP**|
 |---|------------------|
 |**Sinônimos**| App, Aplicativo, Software |
 |**Noção**| Aplicativo de aluguel de bicicletas sobre o qual a documentação do projeto se trata |

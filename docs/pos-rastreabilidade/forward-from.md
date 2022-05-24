@@ -372,14 +372,14 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="10"><a href="https://liviarodrigues1.github.io/App-buSP/modelagem/backlog/historias_de_usuario/#feature10">Central de atendimento</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://liviarodrigues1.github.io/App-buSP/elicitacao/priorizacao/moscow/">RF25</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US20</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de saber as regras de utilização do serviço para saber como utilizar corretamente o Tembici</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de saber as regras de utilização do serviço para saber como utilizar corretamente o buSP</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Organizacional, Gerencial</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Responsabilidade</td>  
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://liviarodrigues1.github.io/App-buSP/elicitacao/priorizacao/moscow/">RF25 RF26</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US21</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de tirar dúvidas gerais sobre o serviço para ter um bom entendimento da utilização do Tembici</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de tirar dúvidas gerais sobre o serviço para ter um bom entendimento da utilização do buSP</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Organizacional</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Responsabilidade</td>   
         </tr>

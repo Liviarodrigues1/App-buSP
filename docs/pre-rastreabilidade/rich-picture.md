@@ -25,7 +25,7 @@
 - As relações entre processos e atores;
 - Problemas e conflitos potenciais.
 
-<p align="justify">&emsp;&emsp;Visando obter o panorama geral funcionamento do software Tembici, foi desenvolvido pela equipe na etapa de Pre-Rastribilidade o Rich Picture da visão geral do projeto para auxiliar no entendimento da Aplicação. Foram feitos 2 rich pictures, ambos criados por integrantes do grupo (João Victor e Luiz Henrique, respectvamente). Para criação desses se observou como o aplicativo se relaciona com seus usuários e outros stakeholders.</p>
+<p align="justify">&emsp;&emsp;Visando obter o panorama geral funcionamento do software buSP, foi desenvolvido pela equipe na etapa de Pre-Rastribilidade o Rich Picture da visão geral do projeto para auxiliar no entendimento da Aplicação. Foram feitos 2 rich pictures, ambos criados por integrantes do grupo (João Victor e Luiz Henrique, respectvamente). Para criação desses se observou como o aplicativo se relaciona com seus usuários e outros stakeholders.</p>
 
 ## Resultados
 #### Rich Picture - Geral
@@ -42,4 +42,4 @@
 ## Referências 
 
 <p>Introducing Rich Pictures. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=597193. Acesso em: 4 de fevereiro de 2022.</p>
-<p>Aplicativo Tembici. Disponível em: https://www.tembici.com.br. Acesso em: 4 de fevereiro de 2022.</p>
+<p>Aplicativo buSP. Disponível em: https://www.buSP.com.br. Acesso em: 4 de fevereiro de 2022.</p>
