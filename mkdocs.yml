@@ -8,7 +8,6 @@ theme:
   palette:
     primary: pink
     accent: indigo
-  favicon: assets/tembiciFavIcon.ico
   logo: assets/buSP.png
   features:
     - navigation.tabs
