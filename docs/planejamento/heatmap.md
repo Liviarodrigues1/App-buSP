@@ -4,7 +4,6 @@
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
 | 1.0 | 05/03/2022 | Criação Readmap  |  Livia Rodrigues, Luiz Henrique |
-| 1.1 | 09/04/2022 | Revisão | Luiz Henrique |
 
 *Tabela 1: versionamento*
 

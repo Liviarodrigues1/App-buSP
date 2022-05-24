@@ -17,6 +17,7 @@
 ||Ferramenta|Finalidade|
 |:-:|:-:|-|
 | ![Figma](../assets/planejamento/logos/figma.png){width="80"}| Figma | Prototipação. |
+| ![Trello](../assets/planejamento/logos/trello.png){width="80"}| Trello | Organização da sprint. |
 | ![Github](../assets/planejamento/logos/gitHub.png){width="80"}| Github | Versionamento do projeto. |
 | ![Telegram](../assets/planejamento/logos/telegram.png){width="80"}|  Telegram | Comunicação por texto entre os integrantes. |
 | ![Meets](../assets/planejamento/logos/googleMeets.png){width="80"} | Google Meets | Reuniões da equipe. |
@@ -29,6 +30,4 @@
 *Tabela 3: Tabela contendo as ferramentas utilizadas no projeto*
 
 ## Referências
-<p>Wiki Requisitos - Planejamento - Ferramentas. Disponível em: https://github.com/Requisitos-de-Software/2020.2-CarteiraDigitalTransito/blob/main/docs/planejamento.md. Acesso em: 06 de março de 2022.</p>
-
-*Tabela 4: Tabela de referências*
+<p>Wiki Requisitos - Planejamento - Ferramentas. Disponível em: https://github.com/Requisitos-de-Software/2020.2-CarteiraDigitalTransito/blob/main/docs/planejamento.md. Acesso em: 24 de maio de 2022.</p>
