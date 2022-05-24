@@ -3,7 +3,7 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
-| 1.0 | 24/05 | Adição de personas | Lívia Rodrigues, João Victor |
+| 1.0 | 24/05 | Adição de personas | Lívia Rodrigues |
 
 *Tabela 1: versionamento*
 
