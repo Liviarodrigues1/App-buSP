@@ -1,6 +1,6 @@
 # Início
 
-![Image title](./assets/buSP.png){ width="900"}
+![Image title](./assets/buSP.png)
 
 *Imagem 1: Logo tembici*
 
