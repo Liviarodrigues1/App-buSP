@@ -11,7 +11,7 @@
 <p align="justify">&emsp;&emsp;Introspecção é uma técnica de Elicitação de Requisitos que consiste na compreensão das funcionalidades e propriedades necessárias para o sucesso do produto.</p> 
 
 ## Metodologia
-<p align="justify">&emsp;&emsp;Em suma, na técnica Introspecção o grupo se reuniu em uma reunião onde foi realizado o exercício de se colocar no lugar do usuário e analisar quais as necessidades e desejos do mesmo ao utilizar o sistema proposto ou a ser analisado, assim obtendo a partir do mesmo requisitos para o projeto.</p> 
+<p align="justify">&emsp;&emsp;Em suma, na técnica Introspecção foi realizado o exercício de se colocar no lugar do usuário e analisar quais as necessidades e desejos do mesmo ao utilizar o sistema proposto ou a ser analisado, assim obtendo a partir do mesmo requisitos para o projeto.</p> 
 
 ## Resultados
 
