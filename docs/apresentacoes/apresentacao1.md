@@ -16,7 +16,7 @@
 ## Apresentação
 
 
-[![Apresentação 1](../assets/buSP.png)](https://youtu.be/8ssdPAHgU4U)
+[![Apresentação 1](../assets/buSP.png)](https://youtu.be/7w99ndrmHjs)
 
 *Imagem 1: Apresentação 1 thumbnail*
 
